@@ -25,7 +25,7 @@ let teksbio = `${htki} *BIODATA* ${htka}
 *ᴄʟᴀss:* 10
 *sᴛᴀᴛᴜs:* ytta
 
-*ʙɪʀᴛʜᴅᴀʏ:* 5 Oct 2008
+*ʙɪʀᴛʜᴅᴀʏ:* 4j2k6
 *ᴀᴅᴅʀᴇss:* Indonesia, jawa barat, Bandung Barat
 
 *- - sᴋɪʟʟs: - -* 
