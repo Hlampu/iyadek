@@ -69,11 +69,11 @@ global.nameown = 'Zxyuu Romm'
 global.owner = [
   ['6281322667077'],
   ['6281322667077'],
-  ['6281322667077'],
-  ['6281322667077', 'ZxyuuRomm🗿', true]
+  ['6281215710461'],
+  ['6281215710461', 'ZxyuuRomm🗿', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = [] // Want some help?
+global.mods = ['6281215710461'] // Want some help?
 global.prems = ['6281215710461'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
@@ -121,7 +121,7 @@ global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ZxyuuBOTZ˘ฅ ꒱ ‧₊˚꒷︶
 global.wm3 = '⫹⫺  ZxyuuRomm'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '🌱 ZxyuuBotz Whatsapp Bot'
+global.titlebot = '🌱 ZxyuuBotz Whatsapp Bot By Romli'
 global.author = '                「 ZxyuuBotz 」'
 
 
