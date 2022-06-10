@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://telegra.ph/file/b8eaa05f5d6142ddb2d4f.png" width="75%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/4f4724f076bf5b402fab9.jpg" width="75%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">KannaBOT - MD</h1>
 <p align="center">
