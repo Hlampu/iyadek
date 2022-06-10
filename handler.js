@@ -306,9 +306,9 @@ export async function handler(chatUpdate) {
                 if (!('simi' in chat))
                     chat.simi = false
                 if (!('nsfw' in chat))
-                    chat.nsfw = false
+                    chat.nsfw = true
                 if (!('premnsfw' in chat))
-                    chat.premnsfw = false
+                    chat.premnsfw = true
                 if (!isNumber(chat.expired))
                     chat.expired = 0
             } else
@@ -326,8 +326,8 @@ export async function handler(chatUpdate) {
                     antiToxic: true,
                     simi: false,
                     expired: 0,
-                    nsfw: false,
-                    premnsfw: false,
+                    nsfw: true,
+                    premnsfw: true,
                 }
             let settings = global.db.data.settings[this.user.jid]
             if (typeof settings !== 'object') global.db.data.settings[this.user.jid] = {}
