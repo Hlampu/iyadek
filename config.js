@@ -44,37 +44,37 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/Naiichnz'
-global.sgh = 'https://github.com/romlisuhanda'
-global.sgc = 'https://chat.whatsapp.com/C3NffywEXk4KQUZF0iH2DQ'
+global.sig = ''
+global.sgh = ''
+global.sgc = ''
 global.sdc = '-'
 global.snh = '-'
 
 /*============== PAYMENT ==============*/
-global.pdana = '081322667077'
-global.povo = '-'
-global.pgopay = '-'
-global.ppulsa = '081322667077'
-global.ppulsa2 = '081215710461'
-global.psaweria = '-'
+global.pdana = '083181085070'
+global.povo = '083181085070'
+global.pgopay = '083181085070'
+global.ppulsa = '083181085070'
+global.ppulsa2 = '083181085070'
+global.psaweria = '083181085070'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281224804625'
-global.nomorown = '6281322667077'
-global.namebot = 'Zxyuu BOT'
-global.nameown = 'Zxyuu Romm'
+global.nomorbot = '79806608435'
+global.nomorown = '436507000206999'
+global.namebot = '𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐'
+global.nameown = '𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6281322667077'],
-  ['6281322667077'],
-  ['6281215710461'],
-  ['6281215710461', 'ZxyuuRomm🗿', true]
+  ['436507000206999'],
+  ['436507000206999'],
+  ['436507000206999'],
+  ['436507000206999', '𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = ['6281215710461'] // Want some help?
-global.prems = ['6281215710461'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
+global.mods = ['436507000206999'] // Want some help?
+global.prems = ['436507000206999'] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
 /*============== API ==============*/
@@ -116,13 +116,13 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 //GANTI SETERAH MU
-global.wm = '                「 ZxyuuBOTZ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ZxyuuBOTZ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺  ZxyuuRomm'
+global.wm = '                「 𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺  𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '🌱 ZxyuuBotz Whatsapp Bot By Romli'
-global.author = '                「 ZxyuuBotz 」'
+global.titlebot = '🌱 𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐ Whatsapp Bot By Romli'
+global.author = '                「 𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐ 」'
 
 
 /*============== LOGO ==============*/
@@ -175,8 +175,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Naiichnz'
-global.stickauth = `By ZxyuuBOTZ`
+global.stickpack = '𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐'
+global.stickauth = `By 𝐻𝑒𝑛𝑑𝑟𝑎-ᴍᴅ᭄࿐`
 
 global.multiplier = 38 // The higher, The harder levelup
 
